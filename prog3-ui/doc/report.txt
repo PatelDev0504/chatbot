@@ -1,0 +1,28 @@
+    I decided to use a while loop to iterate through the functions I needed everytime to ensure that the
+program ran until the user decided to end the program. Within the while loop, I called multiple functions
+in order to fulfill the assignment requirements and I included a check to see when the loop should end.
+The check is if the user inputed either quit or q to the terminal.
+
+    I included a class called Data.py. Within the class, there is a constructor and two methods. The 
+constructor requires three strings, one called name, one called regexStart, and one called regexEnd.
+One method called retName which is needed in the while loop to search. This method returns the 
+name of the Data object. The second method takes in a string which is a file path and it is used to
+search that file to find the text between the regexStart and regexEnd which is then printed to an
+output.txt file.
+
+    Within the loop, I first prompt the user for a question about the companies that I chose, which were
+AMD and NVIDIA. Then, I called the functions, "findCompany()". The "findCompany()" function checks the 
+question to find the company name and then returns the file path associated with the company's 10-K. 
+This is stored in a variable called fileName to be used later and if the company name is
+not found in the question, then the fileName is set to NVIDIA by default. If neither company
+name is entered, the program assumes that the current company is the one that is being asked about again. 
+
+    Wihtin the loop, the list of Data objects are searched to see if the question contains any of those
+objects. If not, then the corresponding output is printed to the terminal and there is no method called. 
+If so, then the method printString(fileName) within the Data.py class is called and the corresponding 
+output to the terminal is printed. Note that the answer is not printed into the terminal. This is because 
+the output from the 10-K files would be too long.
+
+    After going through these functions, the user is prompted once again to enter another question when
+The "output.txt" file is saves the questions asked and the answers for each time the program is run.  
+When the program is started, it clears the output.txt file and then saves the conversation into the file. 
