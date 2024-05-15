@@ -1,0 +1,7 @@
+Hello, this is the archive of the conversation.
+
+Question: no
+
+Question: quit
+
+Thank you. Bye! (This file will be overwritten when the program is started up again.)

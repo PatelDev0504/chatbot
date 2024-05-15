@@ -1,0 +1,29 @@
+<Bot>: Welcome!
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: tell me everything
+<Bot>: Answer found. It is stored in the output.txt file in the data folder.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: what companies do you support?
+<Bot>: I support queries about AMD and NVIDIA.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: what information do you support?
+<Bot>: I have information about parts 1-4 and items 1, 1A, 2, 3, 4, 5, 7, 7A, 8, 9, 9A, 9B, 9C, 10, 11, 12, 13, 14, 15.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: how are you
+<Bot>: I'm doing great.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: tell me about the ceo of amd
+<Bot>: Answer found. It is stored in the output.txt file in the data folder.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: tell me about the risk factors for nvidia
+<Bot>: Answer found. It is stored in the output.txt file in the data folder.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: give me a summary of the chats
+<Bot>: There are 26 chats to date with user asking 74 times and system respond 108 times. Total duration is 1292.8667106628418 seconds.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: show chat summary of chat 2
+<Bot>: Chat 2 has user asking 2 times and system respond 3 times. Total duration is 7.392979860305786 seconds.
+<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
+<User>: go away
+<Bot>: Thank you. Bye!
+This program took 146.33663201332092 seconds.
