@@ -1,4 +1,0 @@
-When running the program, go into the src folder and then run the python program. You MUST be inside of 
-the src folder before running the python program or the paths for the file reader and file writer will
-not work as intended. For this to work, the fuzzywuzzy library has to be installed. To do that, you
-can run the pip install command for fuzzywuzzy in the terminal which should download the correct library.
