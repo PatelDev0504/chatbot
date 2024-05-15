@@ -1,9 +1,0 @@
-<Bot>: Welcome!
-<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
-<User>: tell me about nvidia
-<Bot>: Answer found. It is stored in the output.txt file in the data folder.<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
-<User>: who is the ceo of amd
-<Bot>: Answer found. It is stored in the output.txt file in the data folder.<Bot>: Please enter a question that you have about amd or nvidia or enter Quit, quit, or q to exit the program.
-<User>: quit
-<Bot>: Thank you. Bye!
-This program took 16.89622473716736 seconds.
